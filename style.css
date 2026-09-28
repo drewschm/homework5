@@ -1,0 +1,71 @@
+p{
+    color: orange;
+    font-size: 25px;
+    display: flex;
+    inline-sizing: normal;
+}
+
+
+#bugh{
+    color: #467fb8;
+    display: flex;
+    justify-content: center;
+}
+
+#stumph{
+    color: #721785;
+    display: flex;
+    justify-content: center;
+}
+
+ol1{
+    color: darkgreen;
+}
+
+ul1{
+    color:darkgreen;
+}
+
+ol2{
+    color: darkblue;
+}
+
+ul2{
+    color:darkblue;
+}
+
+#mainbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-color: lightcoral;
+    height: 100px;
+}
+
+#mainbar:hover{
+    background-color: lightslategray;
+    cursor: pointer;
+}
+
+#homeimage{
+    display: flex;
+    justify-content: center;
+}
+
+#home{
+    color: black;
+}
+
+#ghost{
+    color: #721785;
+}
+
+#bug{
+    color: forestgreen;
+}
+
+#poke{
+    display: flex;
+    justify-content: center;
+}
